@@ -17,3 +17,4 @@ print(freq)
 #  key into an index or location where the data can be stored and retrieved efficiently.
 #  It is commonly used for frequency counting, finding duplicate elements, and fast
 #  searching. Its average time complexity for insertion, searching, and deletion is O(1).
+# index shifting ,ascii table H/W
